@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 27.0.1</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Tuesday, 17 JUN 2025 8:30:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/sa/app/ihop-ksa/id1594233961" sparkle:version="27.0.0" sparkle:os="ios" />
+        </item>
+    </channel>
+</rss>
