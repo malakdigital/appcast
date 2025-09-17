@@ -3,7 +3,7 @@
     <channel>
         <title>Update Now  - Apple app</title>
         <item>
-            <title>Version 28.0.0</title>
+            <title>Version 28.0.1</title>
             <description>*lanching IHOP7 with refreshed visuals
 
 *New Archive: lectures, posters, competitions, workshops, courses, certificates
@@ -20,7 +20,7 @@
 
 </description>
             <pubDate>Wednesday, September 10, 2025 at 10:16 PM GMT+03:00</pubDate>
-            <enclosure url="https://apps.apple.com/sa/app/ihop-ksa/id1594233961" sparkle:version="28.0.0" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/sa/app/ihop-ksa/id1594233961" sparkle:version="28.0.1" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
