@@ -3,7 +3,7 @@
     <channel>
         <title>Update IHOP 7 Now</title>
         <item>
-            <title>Version 5.0.0</title>
+            <title>Version 5.0.1</title>
             <description>Launching IHOP7 with refreshed visuals
 
 
@@ -31,9 +31,10 @@ Improved search behavior (partial & case-insensitive)
 
 Minor UI polish and bug fixes</description>
             <pubDate>September 12, 2025, at 9:52 PM</pubDate>
-            <enclosure url="https://appgallery.huawei.com/app/C111237563" sparkle:version="5.0.0" sparkle:os="android" />
+            <enclosure url="https://appgallery.huawei.com/app/C111237563" sparkle:version="5.0.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
+
 
 
