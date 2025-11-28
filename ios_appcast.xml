@@ -3,25 +3,17 @@
     <channel>
         <title>Update Now  - Apple app</title>
         <item>
-            <title>Version 28.0.1</title>
-            <description>*lanching IHOP7 with refreshed visuals
-
-*New Archive: lectures, posters, competitions, workshops, courses, certificates
-
-*Speakers & Moderators archives with quick bios
-
-*Committees directory with member bios and search
-
-*Favorites & smoother navigation
-
-*Performance and stability improvements
-
-*general enhancement  *fix issus*
+            <title>Version 28.0.4</title>
+            <description>
+                *IHOP Academy offers accredited courses and workshops for pharmacy students and healthcare professionals with instant certificates and year-round learning.*
+                • Bug fixes and performance improvements
+• UI/UX refinements across the app
+• Added the new TedHop Corner section
 
 </description>
-            <pubDate>7:40 AM
-Wednesday, September 17, 2025 (GMT+3)</pubDate>
-            <enclosure url="https://apps.apple.com/sa/app/ihop-ksa/id1594233961" sparkle:version="28.0.1" sparkle:os="ios" />
+            <pubDate>2:00 PM
+Friday, Nov 28, 2025 (GMT+3)</pubDate>
+            <enclosure url="https://apps.apple.com/sa/app/ihop-ksa/id1594233961" sparkle:version="28.0.4" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
