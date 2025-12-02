@@ -3,39 +3,18 @@
     <channel>
         <title>Update IHOP 7 Now</title>
         <item>
-            <title>Version 5.0.1</title>
-            <description>Launching IHOP7 with refreshed visuals
-
-
-New Archive: lectures, posters, competitions,Tahseen Awards, workshops, courses, certificates
-
-
-Speakers & Moderators archives with quick bios
-
-
-Committees directory with member bios and search
-
-
-Favorites & smoother navigation
-
-
-Performance and stability improvements
-
-
-
-Faster loading for archives
-
-
-Improved search behavior (partial & case-insensitive)
-
-
-Minor UI polish and bug fixes</description>
+            <title>Version 5.0.3</title>
+            <description>
+IHOP Academy is a specialized learning platform designed to enhance the skills of pharmacy students and healthcare professionals through accredited courses, workshops, and interactive assessments.
+The academy offers flexible learning, instant certificates, and year-round educational content — all accessible through the IHOP app.
+</description>
             <pubDate>7:40 AM
-Wednesday, September 17, 2025 (GMT+3)</pubDate>
-            <enclosure url="https://appgallery.huawei.com/app/C111237563" sparkle:version="5.0.1" sparkle:os="android" />
+TUE, DEC 2, 2025 (GMT+3)</pubDate>
+            <enclosure url="https://appgallery.huawei.com/app/C111237563" sparkle:version="5.0.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
+
 
 
 
