@@ -3,13 +3,14 @@
     <channel>
         <title>Update Havlaa now</title>
         <item>
-            <title>Version 1.0.0</title>
+            <title>Version 1.0.1</title>
             <description>Test Update</description>
             <pubDate>Friday, Jan 1, 2026 at 11:33 AM GMT+03:00.</pubDate>
             <enclosure url="https://appgallery.huawei.com/app/C111237563" sparkle:version="1.0.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
+
 
 
 
