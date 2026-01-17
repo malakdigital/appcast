@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Update IHBD Summit now</title>
+        <item>
+            <title>Version 1.0.0</title>
+            <description>Init Update</description>
+            <pubDate>Friday, Jan 1, 2026 at 11:33 AM GMT+03:00.</pubDate>
+            <enclosure url="https://appgallery.huawei.com/app/C111237563" sparkle:version="1.0.0" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
+
+
+
+
+
+
+
+
+
+
+
+
