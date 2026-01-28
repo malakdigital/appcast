@@ -3,13 +3,28 @@
     <channel>
         <title>Update IHBD Summit now</title>
         <item>
-            <title>Version 1.0.0</title>
-            <description>Init Update</description>
-            <pubDate>Friday, Jan 1, 2026 at 11:33 AM GMT+03:00.</pubDate>
-            <enclosure url="https://appgallery.huawei.com/app/C111237563" sparkle:version="1.0.0" sparkle:os="android" />
+            <title>Version 1.0.3</title>
+            <description>Welcome to the first public release of IHBD Summit
+
+We’re excited to launch the initial production version of IHBD Summit, designed to deliver a smooth and reliable experience for conference attendees.
+
+What’s included in this release
+
+Core app features fully enabled for public use
+
+Improved performance and overall stability
+
+UI and navigation refinements based on closed testing feedback
+
+Bug fixes and edge-case handling improvements
+
+Compatibility with the latest Android versions</description>
+            <pubDate>Friday, Jan 29, 2026 at 00:00 AM GMT+03:00.</pubDate>
+            <enclosure url="https://appgallery.huawei.com/app/C111237563" sparkle:version="1.0.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
+
 
 
 
