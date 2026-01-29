@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>IHBD Summit now</title>
+        <title>Update IHBD Summit now</title>
         <item>
-            <title>Version 1.0.0</title>
-            <description>iOS</description>
-            <pubDate>Friday, September 19, 2025 at 11:33 AM GMT+03:00.</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/%D9%84%D9%86%D9%86%D8%B7%D9%84%D9%82-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/id6740750595" sparkle:version="1.0.0" sparkle:os="ios" />
+            <title>Version 1.0.4</title>
+            <description>Initial release of the IHBD Summit App.
+Explore the conference agenda, speakers, live sessions, and stay updated with important announcements.
+</description>
+            <pubDate>Thu, Jan 29, 2026 at 11:00 AM GMT+03:00.</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/ihbd-summit/id6757946684" sparkle:version="1.0.4" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
+
 
 
 
