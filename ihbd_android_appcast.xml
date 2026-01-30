@@ -3,7 +3,7 @@
     <channel>
         <title>Update IHBD Summit now</title>
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.0.4</title>
             <description>Welcome to the first public release of IHBD Summit
 
 We’re excited to launch the initial production version of IHBD Summit, designed to deliver a smooth and reliable experience for conference attendees.
@@ -19,11 +19,12 @@ UI and navigation refinements based on closed testing feedback
 Bug fixes and edge-case handling improvements
 
 Compatibility with the latest Android versions</description>
-            <pubDate>Friday, Jan 29, 2026 at 00:00 AM GMT+03:00.</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.malakdigital.ihbd.summit" sparkle:version="1.0.3" sparkle:os="android" />
+            <pubDate>Friday, Jan 30, 2026 at 00:00 AM GMT+03:00.</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.malakdigital.ihbd.summit" sparkle:version="1.0.4" sparkle:os="android" />
         </item>
     </channel>
 </rss>
+
 
 
 
