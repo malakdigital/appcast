@@ -5,11 +5,35 @@
         <item>
             <title>Version 1.0.0</title>
             <description>
-IHOP Academy is a specialized learning platform designed to enhance the skills of pharmacy students and healthcare professionals through accredited courses, workshops, and interactive assessments.
-The academy offers flexible learning, instant certificates, and year-round educational content — all accessible through the IHOP app.
+Welcome to IHOP8.
+
+Explore the conference program, discover learning opportunities, and manage your participation through the IHOP app. Designed for pharmacists, pharmacy students, and healthcare professionals, the app brings conference information and pharmacy education together.
+
+SCIENTIFIC PROGRAM
+Browse the conference agenda, explore lecture details, and learn about speakers and moderators.
+
+REGISTRATION
+Register for the conference and manage your participant profile and registration details.
+
+WORKSHOPS AND TEDHOP
+Discover workshops and TEDHOP sessions, review their details, and register when enrollment is available.
+
+PHARMACY COMPETITIONS
+Explore available competitions, review participation requirements, and submit your entry through the app.
+
+SCIENTIFIC LIBRARY
+Find available lecture recordings and search the scientific library by lecture title.
+
+PREVIOUS EDITIONS
+Explore conference archives and scientific programs from previous years.
+
+UPDATES AND NOTIFICATIONS
+Receive conference announcements and updates about activities and participation.
+
+Some features require an account. Registration, competitions, and educational activities are available according to the organizers’ published schedules.
 </description>
             <pubDate>9:40 AM
-FRI, SEP 18, 2026 (GMT+3)</pubDate>
+WED, OCT 7, 2026 (GMT+3)</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.ihopevent.app&hl=en" sparkle:version="1.0.0" sparkle:os="android" />
         </item>
     </channel>
