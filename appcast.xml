@@ -3,7 +3,7 @@
     <channel>
         <title>Update IHOP 8 Now</title>
         <item>
-            <title>Version 1.0.0</title>
+            <title>Version 5.0.0</title>
             <description>
 Welcome to IHOP8.
 
@@ -34,7 +34,7 @@ Some features require an account. Registration, competitions, and educational ac
 </description>
             <pubDate>9:40 AM
 WED, OCT 7, 2026 (GMT+3)</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.ihopevent.app&hl=en" sparkle:version="1.0.0" sparkle:os="android" />
+            <enclosure url="https://appgallery.huawei.com/#/app/C111237563" sparkle:version="5.0.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
