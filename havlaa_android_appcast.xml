@@ -3,13 +3,14 @@
     <channel>
         <title>Update Havlaa now</title>
         <item>
-            <title>Version 1.0.9</title>
+            <title>Version 1.0.0</title>
             <description>Test Update</description>
             <pubDate>Friday, NOV 23, 2026 at 11:33 AM GMT+03:00.</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.malakdigital.havlaa" sparkle:version="1.0.9" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.malakdigital.havlaa" sparkle:version="1.0.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
+
 
 
 
